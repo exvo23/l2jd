@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+<!-- HEAVY Set Link@ BAN - L2JDEV #Discord BAN_L2JDEV#5612 Vip Extrem -->
+  <item id="9730" type="Armor" name="Moirai Heavy Helmet">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="268" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="550" />
+		<set name="price" val="5370000" />
+		<for>
+			<baseadd stat="pDef" val="83" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9731" type="Armor" name="Moirai Heavy Breastplate">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="chest" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="715" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="7620" />
+		<set name="price" val="14300000" />
+		<for>
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9732" type="Armor" name="Moirai Heavy Gaiters">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="legs" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="448" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="3260" />
+		<set name="price" val="8960000" />
+		<for>
+			<baseadd stat="pDef" val="128" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9733" type="Armor" name="Moirai Heavy Gloves">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="540" />
+		<set name="price" val="3580000" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9734" type="Armor" name="Moirai Heavy Boots">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1110" />
+		<set name="price" val="3580000" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+
+	<!-- LIGHT Set Link@ BAN - L2JDEV #Discord BAN_L2JDEV#5612 Vip Extrem -->
+  <item id="9735" type="Armor" name="Moirai Leather Helmet">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="268" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="550" />
+		<set name="price" val="5370000" />
+		<for>
+			<baseadd stat="pDef" val="83" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9736" type="Armor" name="Moirai Leather Breastplate">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="chest" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="715" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="7620" />
+		<set name="price" val="14300000" />
+		<for>
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9737" type="Armor" name="Moirai Leather Gaiters">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="legs" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="448" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="3260" />
+		<set name="price" val="8960000" />
+		<for>
+			<baseadd stat="pDef" val="128" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9738" type="Armor" name="Moirai Leather Gloves">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="540" />
+		<set name="price" val="3580000" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9739" type="Armor" name="Moirai Leather Boots">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1110" />
+		<set name="price" val="3580000" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+
+<!-- Robe Set Link@ BAN - L2JDEV #Discord BAN_L2JDEV#5612 Vip Extrem -->
+
+  <item id="9740" type="Armor" name="Moirai Robe Helmet">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="268" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="550" />
+		<set name="price" val="5370000" />
+		<for>
+			<baseadd stat="pDef" val="83" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9741" type="Armor" name="Moirai Robe Breastplate">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="715" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="7620" />
+		<set name="price" val="14300000" />
+		<for>
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9742" type="Armor" name="Moirai Robe Gaiters">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="legs" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="448" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="3260" />
+		<set name="price" val="8960000" />
+		<for>
+			<baseadd stat="pDef" val="128" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9743" type="Armor" name="Moirai Robe Gloves">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="540" />
+		<set name="price" val="3580000" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+  <item id="9744" type="Armor" name="Moirai Robe Boots">
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1110" />
+		<set name="price" val="3580000" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+</list>

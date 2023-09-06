@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>	
+    <zone shape='Cylinder' minZ='-4552' maxZ='-2552' rad='9000'>
+	<stat name="ZoneName" val="Party Farm" />
+	<node x="-14815" y="211179" />
+	
+	<spawn type="NORMAL" x="-17186" y="206569" z="-3664" />
+	<spawn type="NORMAL" x="-7606" y="206875" z="-3712" />
+	<spawn type="NORMAL" x="-19154" y="219177" z="-3344" />
+	<spawn type="NORMAL" x="-16642" y="212252" z="-3680" />
+	
+</zone>
+</list>

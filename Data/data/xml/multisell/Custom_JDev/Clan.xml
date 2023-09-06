@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<item><!-- Blood Mark -->
+		<production id="1419" count="1"/>
+		<ingredient id="57" count="1000000"/>
+	</item>
+	<item><!-- Alliance Manifesto -->
+		<production id="3874" count="1"/>
+		<ingredient id="57" count="5000000"/>
+	</item>
+	<item><!-- Seal of Aspiration -->
+		<production id="3870" count="1"/>
+		<ingredient id="57" count="10000000"/>
+	</item>
+	<item><!-- Destruction Tombstone -->
+		<production id="8176" count="3"/>
+		<ingredient id="9308" count="100"/>
+	</item>
+	<item><!-- Earth Egg: A-Grade -->
+		<production id="8166" count="3"/>
+		<ingredient id="9308" count="100"/>
+	</item>
+	<item><!-- Angelic Essence: A-Grade -->
+		<production id="8172" count="1"/>
+		<ingredient id="9308" count="100"/>
+	</item>
+	<item><!-- Dragon Heart: A-Grade	 -->
+		<production id="8163" count="3"/>
+		<ingredient id="9308" count="100"/>
+	</item>
+	<item><!-- Nonliving Nucleus: A-Grade -->
+		<production id="8169" count="3"/>
+		<ingredient id="9308" count="100"/>
+	</item>
+	<item><!-- Memento Mori: A-Grade -->
+		<production id="8160" count="3"/>
+		<ingredient id="9308" count="100"/>
+	</item>
+	<item><!-- Cradle Of Creation -->
+		<production id="8175" count="3"/>
+		<ingredient id="9308" count="100"/>
+	</item>
+	<item><!-- Clan Letter -->
+		<production id="9300" count="1"/>
+		<ingredient id="9308" count="10000"/>
+	</item>
+</list>

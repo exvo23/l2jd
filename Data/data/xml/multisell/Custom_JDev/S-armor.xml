@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-Grade Armors -->
+
+<list maintainEnchantment="True">
+
+  <!-- Imperial Crusader Helmet -->
+  <item id="1">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6378" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Breastplate -->
+  <item id="2">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6373" count="1"/>
+  </item>
+
+  <!-- Crusader Gaiters -->
+  <item id="3">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6374" count="1"/>
+  </item>
+
+  <!-- Crusader Gauntlets -->
+  <item id="4">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6375" count="1"/>
+  </item>
+
+  <!-- Crusader Boots -->
+  <item id="5">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6376" count="1"/>
+  </item>
+
+  <!-- Icon l2 -->
+  <item id="6">
+    <ingredient id="22001" count="1"/>
+    <production id="22001" count="1"/>
+  </item>
+
+  <!-- Draconic Helmet -->
+  <item id="7">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6382" count="1"/>
+  </item>
+
+  <!-- Draconic Leather Armor -->
+  <item id="8">
+	<ingredient id="9309" count="60000"/>
+	<ingredient id="9308" count="8"/>
+	<ingredient id="9318" count="4"/>
+    <production id="6379" count="1"/>
+  </item>
+
+  <!-- Draconic Gloves -->
+  <item id="9">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6380" count="1"/>
+  </item>
+
+  <!-- Draconic Boots --> 
+  <item id="10">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6381" count="1"/>
+  </item>
+  
+  <!-- Dragon Shield -->
+  <item id="11">
+    <ingredient id="9308" count="500"/>
+	<ingredient id="9309" count="30000"/>
+    <production id="634" count="1"/>
+  </item>
+  
+    <!-- Icon -->
+  <item id="12">
+    <ingredient id="22001" count="1"/>
+    <production id="22001" count="1"/>
+  </item>
+
+  <!-- Major Arcana Circlet -->
+  <item id="13">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6386" count="1"/>
+  </item>
+
+  <!-- Major Arcana Robe -->
+  <item id="14">
+	<ingredient id="9309" count="60000"/>
+	<ingredient id="9308" count="8"/>
+	<ingredient id="9318" count="4"/>
+    <production id="6383" count="1"/>
+  </item>
+
+  <!-- Major Arcana Gloves -->
+  <item id="15">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6384" count="1"/>
+  </item>
+
+  <!-- Major Arcana Boots -->
+  <item id="16">
+	<ingredient id="9309" count="30000"/>
+	<ingredient id="9308" count="500"/>
+	<ingredient id="9318" count="500"/>
+    <production id="6385" count="1"/>
+  </item>
+  
+  <!-- Imperial Crusader Shield -->
+  <item id="17">
+    <ingredient id="9308" count="500"/>
+	<ingredient id="9309" count="30000"/>
+    <production id="6377" count="1"/>
+  </item>
+
+  <!-- Icon -->
+  <item id="18">
+    <ingredient id="22001" count="1"/>
+    <production id="22001" count="1"/>
+  </item>
+
+
+  
+  
+  
+</list>

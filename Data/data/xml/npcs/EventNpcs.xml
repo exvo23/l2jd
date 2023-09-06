@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+
+<npc id="60016" idTemplate="31309" name="Diosa Atenea" title="Event Manager">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="15" /> 
+  <set name="height" val="21.5" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="Folk" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+- <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+  </skills>
+  </npc>
+ 
+<npc id="9100" idTemplate="25205" name="Ocean Flame Ashakiel" title="Party Farm Event">
+    <set name="usingServerSideName" val="false" /> 
+    <set name="usingServerSideTitle" val="true" /> 
+	<set name="level" val="76"/>
+	<set name="radius" val="22"/>
+	<set name="height" val="120"/>
+	<set name="rHand" val="98"/>
+	<set name="lHand" val="0"/>
+	<set name="type" val="Monster"/>
+	<set name="exp" val="4888056"/>
+	<set name="sp" val="961047"/>
+	<set name="hp" val="401886.766608773"/>
+	<set name="mp" val="1540.8"/>
+	<set name="hpRegen" val="124.302529182249"/>
+	<set name="mpRegen" val="3"/>
+	<set name="pAtk" val="2501.79548333906"/>
+	<set name="pDef" val="971.35365"/>
+	<set name="mAtk" val="888.048862829437"/>
+	<set name="mDef" val="473.86"/>
+	<set name="crit" val="4"/>
+	<set name="atkSpd" val="253"/>
+	<set name="str" val="60"/>
+	<set name="int" val="76"/>
+	<set name="dex" val="73"/>
+	<set name="wit" val="70"/>
+	<set name="con" val="57"/>
+	<set name="men" val="80"/>
+	<set name="corpseTime" val="7"/>
+	<set name="walkSpd" val="50"/>
+	<set name="runSpd" val="170"/>
+	<ai type="DEFAULT" ssCount="100" ssRate="100" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4183" level="8"/>
+			<skill id="4189" level="8"/>
+			<skill id="4193" level="8"/>
+			<skill id="4416" level="8"/>
+			<skill id="4494" level="1"/>
+			<skill id="4988" level="1"/>
+		</skills>
+	<drops>
+		<category type="DROP" chance="100.0000">
+		<drop itemid="9316" min="50" max="50" chance="100.0"/>
+		</category>
+		
+		<category type="DROP" chance="100.0000">
+		<drop itemid="9317" min="100" max="100" chance="100.0"/>
+		</category>
+	</drops>
+		<minions>
+			<minion id="9101" min="1" max="1"/>
+			<minion id="9102" min="1" max="1"/>
+		</minions>
+</npc>
+ 
+ 
+<npc id="9101" idTemplate="25206" name="Ashakiel's Blade" title="Event Fighter">
+    <set name="usingServerSideName" val="false" /> 
+    <set name="usingServerSideTitle" val="true" /> 
+	<set name="level" val="75"/>
+	<set name="radius" val="8"/>
+	<set name="height" val="30"/>
+	<set name="rHand" val="6717"/>
+	<set name="lHand" val="0"/>
+	<set name="type" val="Monster"/>
+	<set name="exp" val="0"/>
+	<set name="sp" val="2920"/>
+	<set name="hp" val="63589.9602304145"/>
+	<set name="mp" val="1507.8"/>
+	<set name="hpRegen" val="123.216289543832"/>
+	<set name="mpRegen" val="3"/>
+	<set name="pAtk" val="9804.8939216752"/>
+	<set name="pDef" val="478.869345"/>
+	<set name="mAtk" val="13902.0164290252"/>
+	<set name="mDef" val="467.22"/>
+	<set name="crit" val="4"/>
+	<set name="atkSpd" val="253"/>
+	<set name="str" val="40"/>
+	<set name="int" val="41"/>
+	<set name="dex" val="30"/>
+	<set name="wit" val="20"/>
+	<set name="con" val="43"/>
+	<set name="men" val="10"/>
+	<set name="corpseTime" val="7"/>
+	<set name="walkSpd" val="50"/>
+	<set name="runSpd" val="170"/>
+	<ai type="DEFAULT" ssCount="100" ssRate="100" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	<skills>
+		<skill id="4045" level="1"/>
+		<skill id="4416" level="8"/>
+		<skill id="4729" level="8"/>
+	</skills>
+	<drops>
+		<category type="DROP" chance="100.0000">
+		<drop itemid="9316" min="50" max="50" chance="100.0"/>
+		</category>
+		
+		<category type="DROP" chance="100.0000">
+		<drop itemid="9317" min="100" max="100" chance="100.0"/>
+		</category>
+	</drops>
+</npc>
+<npc id="9102" idTemplate="25207" name="Ashakiel's Rod" title="Event Fighter">
+    <set name="usingServerSideName" val="false" /> 
+    <set name="usingServerSideTitle" val="true" /> 
+		<set name="level" val="75"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="38.5"/>
+		<set name="rHand" val="6718"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="2920"/>
+		<set name="hp" val="31794.9801152072"/>
+		<set name="mp" val="1507.8"/>
+		<set name="hpRegen" val="123.216289543832"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="4902.4469608376"/>
+		<set name="pDef" val="478.869345"/>
+		<set name="mAtk" val="3475.50410725631"/>
+		<set name="mDef" val="467.22"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="41"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="170"/>
+		<ai type="MAGE" ssCount="100" ssRate="100" spsCount="100" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="8"/>
+		</skills>
+	<drops>
+		<category type="DROP" chance="100.0000">
+		<drop itemid="9316" min="50" max="50" chance="100.0"/>
+		</category>
+		
+		<category type="DROP" chance="100.0000">
+		<drop itemid="9317" min="100" max="100" chance="100.0"/>
+		</category>
+	</drops>
+</npc>
+
+	 
+<npc id="9103" idTemplate="35593" name="Chest" title="OPEN ME!">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="15" /> 
+  <set name="height" val="8.5" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="Folk" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+- <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+  </skills>
+  </npc>
+  
+
+<npc id="9104" idTemplate="35062" name="Blue Flag" title="Blue Flag">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="15" /> 
+  <set name="height" val="82" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="Folk" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+- <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+  </skills>
+ </npc>
+  
+<npc id="9105" idTemplate="35062" name="Red Flag" title="Red Flag">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="15" /> 
+  <set name="height" val="82" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="Folk" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+- <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+  </skills>
+  </npc>
+  
+<npc id="9106" idTemplate="32027" name="Blue Flag Holder" title="Blue Flag Holder">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="15" /> 
+  <set name="height" val="12" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="Folk" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+- <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+  </skills>
+  </npc>
+  
+<npc id="9107" idTemplate="32027" name="Red Flag Holder" title="Red Flag Holder">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="15" /> 
+  <set name="height" val="12" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="Folk" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+- <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+  </skills>
+  </npc>
+  
+
+<npc id="9108" idTemplate="30355" name="Monument PvP" title="Monument PvP">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="8" /> 
+  <set name="height" val="25" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="TopPvPMonument" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+- <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+  </skills>
+</npc>
+
+<npc id="9109" idTemplate="30355" name="Monument Pk" title="Monument Pk">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="8" /> 
+  <set name="height" val="25" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="TopPKMonument" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+- <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+  </skills>
+ </npc>
+<npc id="9110" idTemplate="32027" name="Monument of Fortress" title="Summon Event">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+		<set name="level" val="70"/>
+		<set name="radius" val="15"/>
+		<set name="height" val="12"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="HolyThing"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="2444.46819"/>
+		<set name="mp" val="1345.8"/>
+		<set name="hpRegen" val="7.5"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="688.86373"/>
+		<set name="pDef" val="295.91597"/>
+		<set name="mAtk" val="470.40463"/>
+		<set name="mDef" val="216.53847"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="120"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4416" level="19"/>
+		</skills>
+	</npc>
+</list>

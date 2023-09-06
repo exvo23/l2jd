@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewellery -->
+
+<list maintainEnchantment="true">
+  
+  <!-- Valakas Necklace -->
+  <item>
+  <production id="6657" count="1" enchantmentLevel="12"/>
+    <ingredient id="9315" count="10"/>
+  </item>
+  
+   <!-- Antharas Earring -->
+  <item>
+ <production id="6656" count="1" enchantmentLevel="12"/>
+ <ingredient id="9315" count="10"/>
+   
+  </item> 
+  
+  
+  <!-- Zaken Earring -->
+  <item>
+     <production id="6659" count="1" enchantmentLevel="12"/>
+	 <ingredient id="9315" count="10"/>
+
+  </item>
+
+ 
+  <!-- Ring of Baium -->
+  <item>
+   <production id="6658" count="1" enchantmentLevel="12"/>
+   <ingredient id="9315" count="10"/>
+   
+  </item>
+
+  
+  <!-- Queen Ant -->
+  <item>
+    <production id="6660" count="1" enchantmentLevel="12"/>
+	<ingredient id="9315" count="10"/>
+    
+  </item>
+  
+
+
+</list>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Special Trader -->
+
+<list>
+    
+
+  <!-- Giant Codex -->
+  <item id="1">
+    <ingredient id="9315" count="10"/>
+    <production id="6622" count="50"/>
+  </item>
+  
+  <!-- Life Stone Gold -->
+  <item id="2">
+    <ingredient id="9315" count="10"/>
+    <production id="8762" count="50"/>
+  </item>
+  
+  <!-- Clan Hall Blessed Scroll of Scape -->
+  <item id="3">
+    <ingredient id="9315" count="10"/>
+    <production id="5858" count="25"/>
+  </item>
+
+  <!-- Nobles Item -->
+  <item id="4">
+    <ingredient id="9315" count="5"/>
+    <production id="9300" count="1"/>
+  </item>
+  
+    <!-- Clan Full Item -->
+  <item id="5">
+    <ingredient id="9315" count="100"/>
+    <production id="9301" count="1"/>
+  </item>
+  
+     <!-- Class Change Item -->
+  <item id="6">
+    <ingredient id="9315" count="30"/>
+    <production id="9310" count="1"/>
+  </item>
+  
+     <!-- Change Sex -->
+  <item id="7">
+    <ingredient id="9315" count="5"/>
+    <production id="9311" count="1"/>
+  </item>
+  
+	<!-- Pk Reset -->
+  <item id="8">
+    <ingredient id="9315" count="30"/>
+    <production id="9313" count="1"/>
+  </item>
+  
+	<!-- Start Hero 7 Days -->
+  <item id="9">
+    <ingredient id="9315" count="15"/>
+    <production id="9302" count="1"/>
+  </item>
+ 	<!-- Start VIP 7 Days -->
+  <item id="10">
+    <ingredient id="9315" count="15"/>
+    <production id="9305" count="1"/>
+  </item> 
+</list>

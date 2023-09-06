@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+  <!-- Make GoldBar -->
+  <item id="1">
+    <ingredient id="57" count="250000000"/>
+    <production id="3470" count="1"/>
+  </item>
+  
+  <!-- Make Adena -->
+  <item id="2">
+    <ingredient id="3470" count="1"/>
+    <production id="57" count="250000000"/>
+  </item>
+  
+
+  
+</list>

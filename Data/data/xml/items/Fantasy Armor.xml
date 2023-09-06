@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id="9760" type="EtcItem" name="Vorpal Heavy Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+</item>
+
+ <item id="9761" type="EtcItem" name="Vorpal Leather Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+</item>
+
+<item id="9762" type="EtcItem" name="Vorpal Robe Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+</item>
+
+  <item id="9763" type="EtcItem" name="Moirai Heavy Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+	</item>
+  <item id="9764" type="EtcItem" name="Moirai Leather Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+	</item>
+  <item id="9765" type="EtcItem" name="Moirai Robe Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+	</item>
+  <item id="9766" type="EtcItem" name="Elegia Heavy Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+	</item>
+  <item id="9767" type="EtcItem" name="Elegia Leather Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+	</item>
+ <item id="9768" type="EtcItem" name="Elegia Robe Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+	</item>
+  <item id="9769" type="EtcItem" name="Dynasty Heavy Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+	</item>
+  <item id="9770" type="EtcItem" name="Dynasty Leather Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+	</item>
+  <item id="9771" type="EtcItem" name="Dynasty Robe Breastplate">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="ItemSkinFree" />
+	</item>
+</list>

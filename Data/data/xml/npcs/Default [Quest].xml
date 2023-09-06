@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<npc id="1000" idTemplate="31309" name="Atenea" title="Quest Manager">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="15" /> 
+  <set name="height" val="21.5" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="Folk" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+ <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+ </skills>
+</npc>
+
+<npc id="1001" idTemplate="31309" name="Atenea" title="Quest Manager">
+  <set name="usingServerSideName" val="false" /> 
+  <set name="usingServerSideTitle" val="true" /> 
+  <set name="level" val="70" /> 
+  <set name="radius" val="15" /> 
+  <set name="height" val="21.5" /> 
+  <set name="rHand" val="0" /> 
+  <set name="lHand" val="0" /> 
+  <set name="type" val="Folk" /> 
+  <set name="exp" val="0" /> 
+  <set name="sp" val="0" /> 
+  <set name="hp" val="2444.46819" /> 
+  <set name="mp" val="1345.8" /> 
+  <set name="hpRegen" val="7.5" /> 
+  <set name="mpRegen" val="2.7" /> 
+  <set name="pAtk" val="688.86373" /> 
+  <set name="pDef" val="295.91597" /> 
+  <set name="mAtk" val="470.40463" /> 
+  <set name="mDef" val="216.53847" /> 
+  <set name="crit" val="4" /> 
+  <set name="atkSpd" val="253" /> 
+  <set name="str" val="40" /> 
+  <set name="int" val="21" /> 
+  <set name="dex" val="30" /> 
+  <set name="wit" val="20" /> 
+  <set name="con" val="43" /> 
+  <set name="men" val="20" /> 
+  <set name="corpseTime" val="7" /> 
+  <set name="walkSpd" val="50" /> 
+  <set name="runSpd" val="120" /> 
+  <set name="dropHerbGroup" val="0" /> 
+  <ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false" /> 
+ <skills>
+  <skill id="4045" level="1" /> 
+  <skill id="4416" level="18" /> 
+ </skills>
+</npc>
+<npc id="2000" idTemplate="22190" name="Ritual Sacrifice" title="Quest Monster">
+		<set name="usingServerSideName" val="false" /> 
+		<set name="usingServerSideTitle" val="true" /> 
+		<set name="level" val="86"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="25.8"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="23977"/>
+		<set name="sp" val="1388"/>
+		<set name="hp" val="3136.2900942"/>
+		<set name="mp" val="1919.436"/>
+		<set name="hpRegen" val="8.976"/>
+		<set name="mpRegen" val="3.16812"/>
+		<set name="pAtk" val="1055.0276874"/>
+		<set name="pDef" val="386.504775"/>
+		<set name="mAtk" val="760.9193205984"/>
+		<set name="mDef" val="282.8274207"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="200"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="andreas_clan" clanRange="300" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="10"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4614" level="9"/>
+		</skills>
+		<drops>
+			<category type="CURRENCY" chance="70.0">
+				<drop itemid="57" min="7411" max="7610" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="35.0">
+				<drop itemid="1895" min="1" max="1" chance="100.0"/>
+			</category>
+		</drops>
+	</npc>
+<npc id="2001" idTemplate="22140" name="Zombie Worker" title="Quest Monster">
+		<set name="usingServerSideName" val="false" /> 
+		<set name="usingServerSideTitle" val="true" /> 
+		<set name="level" val="80"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="24.6"/>
+		<set name="rHand" val="8218"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="30724"/>
+		<set name="sp" val="3444"/>
+		<set name="hp" val="2937.9838056"/>
+		<set name="mp" val="1708.296"/>
+		<set name="hpRegen" val="8.67"/>
+		<set name="mpRegen" val="3.06"/>
+		<set name="pAtk" val="912.6537108"/>
+		<set name="pDef" val="348.2025"/>
+		<set name="mAtk" val="635.688655236"/>
+		<set name="mDef" val="254.7994782"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="25"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="36"/>
+		<set name="runSpd" val="120"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="Q700_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4649" level="9"/>
+		</skills>
+		<drops>
+			<category type="CURRENCY" chance="70.0">
+				<drop itemid="57" min="4415" max="9012" chance="100.0"/>
+			</category>
+		</drops>
+	</npc>
+<npc id="2002" idTemplate="22140" name="Zombie Worker" title="Quest Monster">
+		<set name="usingServerSideName" val="false" /> 
+		<set name="usingServerSideTitle" val="true" /> 
+		<set name="level" val="80"/>
+		<set name="radius" val="11"/>
+		<set name="height" val="24.6"/>
+		<set name="rHand" val="8218"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="30724"/>
+		<set name="sp" val="3444"/>
+		<set name="hp" val="2937.9838056"/>
+		<set name="mp" val="1708.296"/>
+		<set name="hpRegen" val="8.67"/>
+		<set name="mpRegen" val="3.06"/>
+		<set name="pAtk" val="912.6537108"/>
+		<set name="pDef" val="348.2025"/>
+		<set name="mAtk" val="635.688655236"/>
+		<set name="mDef" val="254.7994782"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="25"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="36"/>
+		<set name="runSpd" val="120"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="Q700_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4032" level="9"/>
+			<skill id="4275" level="2"/>
+			<skill id="4408" level="12"/>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="1"/>
+			<skill id="4422" level="3"/>
+			<skill id="4649" level="9"/>
+		</skills>
+		<drops>
+			<category type="CURRENCY" chance="70.0">
+				<drop itemid="57" min="4415" max="9012" chance="100.0"/>
+			</category>
+		</drops>
+	</npc>
+</list>

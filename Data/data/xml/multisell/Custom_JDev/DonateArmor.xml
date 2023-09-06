@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-Grade Armors -->
+
+<list maintainEnchantment="true">
+
+  <!-- Imperial Crusader Helmet -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6378" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Imperial Crusader Breastplate -->
+  <item>
+    <ingredient id="9315" count="10"/>
+    <production id="6373" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Crusader Gaiters -->
+  <item>
+    <ingredient id="9315" count="10"/>
+    <production id="6374" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Crusader Gauntlets -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6375" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Crusader Boots -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6376" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Imperial Crusader Shield -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6377" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Draconic Helmet -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6382" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Draconic Leather Armor -->
+  <item>
+    <ingredient id="9315" count="25"/>
+    <production id="6379" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Draconic Gloves -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6380" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Draconic Boots --> 
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6381" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Major Arcana Circlet -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6386" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Major Arcana Robe -->
+  <item>
+    <ingredient id="9315" count="25"/>
+    <production id="6383" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Major Arcana Gloves -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6384" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Major Arcana Boots -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="6385" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Dark Crystal Heavy Armor -->
+  <item>
+    <ingredient id="9315" count="3"/>
+    <production id="512" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Dark Crystal Robe Armor -->
+  <item>
+    <ingredient id="9315" count="15"/>
+    <production id="2407" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Dark Crystal Robe Armor -->
+  <item>
+    <ingredient id="9315" count="3"/>
+    <production id="5767" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Dark Crystal Robe Armor -->
+  <item>
+    <ingredient id="9315" count="3"/>
+    <production id="5779" count="1" enchantmentLevel="12"/>
+  </item>
+  
+  <!-- Tallum Heavy Armor -->
+  <item>
+    <ingredient id="9315" count="3"/>
+    <production id="547" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Tallum Heavy Armor -->
+  <item>
+    <ingredient id="9315" count="15"/>
+    <production id="2382" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Tallum Heavy Armor -->
+  <item>
+    <ingredient id="9315" count="3"/>
+    <production id="5768" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Tallum Heavy Armor -->
+  <item>
+    <ingredient id="9315" count="3"/>
+    <production id="5780" count="1" enchantmentLevel="12"/>
+  </item>
+ 
+  <!-- Tallum Robe Armor -->
+  <item>
+    <ingredient id="9315" count="10"/>
+    <production id="2400" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Tallum Robe Armor -->
+  <item>
+    <ingredient id="9315" count="5"/>
+    <production id="2405" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Tallum Robe Armor -->
+  <item>
+    <ingredient id="9315" count="3"/>
+    <production id="5770" count="1" enchantmentLevel="12"/>
+  </item>
+
+  <!-- Tallum Robe Armor -->
+  <item>
+    <ingredient id="9315" count="3"/>
+    <production id="5782" count="1" enchantmentLevel="12"/>
+  </item>
+  
+ 
+  
+  
+</list>

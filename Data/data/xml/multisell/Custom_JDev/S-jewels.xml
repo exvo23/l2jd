@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <!-- Necklace S -->
+  <item id="1">
+	<ingredient id="9309" count="5000"/>
+	<ingredient id="9308" count="1000"/>
+    <production id="920" count="1" />
+  </item>
+
+  <!-- Earring S -->
+  <item id="2">
+	<ingredient id="9309" count="5000"/>
+	<ingredient id="9308" count="1000"/>
+    <production id="858" count="1" />
+  </item>
+ 
+  <!-- Ring S -->
+  <item id="3">
+	<ingredient id="9309" count="5000"/>
+	<ingredient id="9308" count="1000"/>
+    <production id="889" count="1" />
+  </item>
+</list>

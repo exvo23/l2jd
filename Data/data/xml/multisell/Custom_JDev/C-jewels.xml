@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+  <!-- Necklace C -->
+  <item id="4">
+    <ingredient id="57" count="1200000" />
+    <production id="919" count="1" />
+  </item>	
+  
+  <!-- Earring C -->
+  <item id="5">
+    <ingredient id="57" count="1200000" />
+    <production id="857" count="1" />
+  </item>
+
+  <!-- Ring C -->
+  <item id="6">
+    <ingredient id="57" count="1200000" />
+    <production id="888" count="1" />
+  </item>
+
+</list>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <!-- Valakas Necklace -->
+  <item id="16">
+	<ingredient id="9309" count="300000"/>
+	<ingredient id="9308" count="5000"/>
+	<ingredient id="9312" count="500"/>
+    <production id="6657" count="1"/>
+  </item>
+  
+  <!-- Frintezza Necklace -->
+  <item id="17">
+	<ingredient id="9309" count="300000"/>
+	<ingredient id="9308" count="5000"/>
+	<ingredient id="9312" count="250"/>
+    <production id="8191" count="1"/>
+  </item>
+  
+  <!-- Antharas Earring -->
+  <item id="18">
+	<ingredient id="9209" count="300000"/>
+	<ingredient id="3470" count="250"/>
+	<ingredient id="9210" count="250"/>
+    <production id="6656" count="1"/>
+  </item>
+
+  <!-- Zaken Earring -->
+  <item id="19">
+	<ingredient id="9309" count="300000"/>
+	<ingredient id="9308" count="5000"/>
+	<ingredient id="9312" count="250"/>
+    <production id="6659" count="1"/>
+  </item>
+ 
+  <!-- Earing of Orfen -->
+  <item id="20">
+	<ingredient id="9309" count="300000"/>
+	<ingredient id="9308" count="5000"/>
+	<ingredient id="9312" count="250"/>
+    <production id="6661" count="1"/>
+  </item>
+  
+  <!-- Ring of Baium -->
+  <item id="21">
+	<ingredient id="9309" count="300000"/>
+	<ingredient id="9308" count="5000"/>
+	<ingredient id="9312" count="250"/>
+    <production id="6658" count="1"/>
+  </item>
+  
+  <!-- Queen Ant -->
+  <item id="22">
+	<ingredient id="9309" count="300000"/>
+	<ingredient id="9308" count="5000"/>
+	<ingredient id="9312" count="250"/>
+    <production id="6660" count="1"/>
+  </item>
+
+  <!-- Ring of Core -->
+  <item id="23">
+	<ingredient id="9309" count="300000"/>
+	<ingredient id="9308" count="5000"/>
+	<ingredient id="9312" count="250"/>
+    <production id="6662" count="1"/>
+  </item>
+</list>

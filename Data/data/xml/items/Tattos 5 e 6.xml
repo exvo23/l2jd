@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id="28028" type="Armor" name="Tattoo of Iniciante">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.10' order='0x30' stat='pAtkSpd'/>
+	<mul val='1.10' order='0x30' stat='maxHp'/>
+  
+  </for>
+</item>
+<item id="28029" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.10' order='0x30' stat='mAtkSpd'/>
+	<mul val='1.10' order='0x30' stat='maxHp'/>
+  </for>
+</item>
+
+<item id="28030" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+  
+    <mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+	 <mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+  </for>
+</item>
+
+<item id="28031" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.20' order='0x30' stat='runSpd'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+   
+  </for>
+</item>
+<item id="28032" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.20' order='0x30' stat='pAtkSpd'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+    
+  </for>
+</item>
+
+<item id="28033" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.20' order='0x30' stat='maxHp'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+    
+  </for>
+</item>
+
+<item id="28034" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.20' order='0x30' stat='mAtkSpd'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+    
+  </for>
+</item>
+<item id="28035" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+   <mul val='1.30' order='0x30' stat='mDef'/>
+    <mul val='1.30' order='0x30' stat='pDef'/>
+	<mul val='1.20' order='0x30' stat='maxHp'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+  </for>
+</item>
+
+<item id="28036" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.30' order='0x30' stat='maxHp'/>
+	<mul val='1.30' order='0x30' stat='maxMp'/>
+	<mul val='1.30' order='0x30' stat='maxCp'/>
+	<mul val='1.30' order='0x30' stat='regHp'/>
+	<mul val='1.20' order='0x30' stat='maxHp'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+	
+  </for>
+</item>
+
+<item id="28037" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.30' order='0x30' stat='runSpd'/>
+    <mul val='1.14' order='0x30' stat='rEvas'/>
+    <mul val='1.20' order='0x40' stat='reflectDam'/>
+	<mul val='1.20' order='0x30' stat='maxHp'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+    
+  </for>
+</item>
+<item id="28038" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.28' order='0x30' stat='mAtk'/>
+    <mul val='1.33' order='0x30' stat='mAtkSpd'/>
+    <mul val='1.20' order='0x30' stat='maxHp'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+  </for>
+</item>
+<item id="28039" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.28' order='0x30' stat='pAtk'/>
+    <mul val='1.33' order='0x30' stat='pAtkSpd'/>
+    <mul val='1.20' order='0x30' stat='maxHp'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+  </for>
+</item>
+
+<item id="28040" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.33' order='0x30' stat='cAtk'/>
+    <mul val='1.14' order='0x30' stat='accCombat'/>
+	<mul val='1.20' order='0x30' stat='maxHp'/>
+	<mul val='1.20' order='0x30' stat='pDef'/>
+	 <mul val='1.20' order='0x30' stat='mDef'/>
+  </for>
+</item>
+<item id="28041" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='mDef'/>
+    <mul val='1.15' order='0x30' stat='pDef'/>
+  </for>
+</item>
+
+<item id="28042" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='pAtk'/>
+
+  </for>
+</item>
+
+<item id="28043" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='reflectDam'/>
+
+  </for>
+</item>
+<item id="28044" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='mAtk'/>
+
+  </for>
+</item>
+<item id="28045" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='runSpd'/>
+
+  </for>
+</item>
+<item id="28046" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='pAtkSpd'/>
+
+  </for>
+</item>
+<item id="28047" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='cAtk'/>
+
+  </for>
+</item>
+<item id="28048" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='maxHp'/>
+
+  </for>
+</item>
+<item id="28049" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='accCombat'/>
+
+  </for>
+</item>
+<item id="28050" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='rEvas'/>
+
+  </for>
+</item>
+<item id="28051" type="Armor" name="Tattoo of the Ogre Right">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		  <for> 
+    <mul val='1.15' order='0x30' stat='mAtkSpd'/>
+
+  </for>
+</item>
+</list>

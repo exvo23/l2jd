@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<!-- Core settings -->
+	<event id="0">
+		<property name="registerTime" value="600" />
+		<property name="betweenEventsTime" value="3600" />
+		<property name="firstAfterStartTime" value="3600" />
+		<property name="managerNpcId" value="60016" />
+		<property name="showVotePopupAt" value="300" />
+		<property name="votePopupEnabled" value="true" />
+		<property name="debug" value="false" />
+		<property name="statTrackingEnabled" value="true" />
+		<property name="eventBufferEnabled" value="false" />
+		<property name="allowedBuffsList" value="264,266,267,268,269,270,271,272,273,274,275,276,277,304,305,306,307,308,309,310,349,363,364,365,1035,1036,1040,1043,1045,1048,1059,1062,1068,1077,1078,1085,1086,1087,1182,1189,1191,1204,1240,1242,1243,1259,1268,1284,1303,1304,1352,1353,1354,1355,1356,1357,1363,1388,1389,1392,1393,1397,1413,265,1044" />
+		<property name="maxBuffNum" value="32" />
+		<property name="dualboxAllowed" value="true" />
+		<property name="antiAfkTime" value="0" /> <!-- 0 to disable -->
+		<property name="antiAfkDisallowAfter" value="3" />
+		<property name="antiAfkDisallowTime" value="43200" />
+		<property name="siteUrl" value="WWW.L2JDEV.COM.BR" />
+		<restriction type="disabledEvents" ids="" />
+		<restriction type="item" ids="6611,6612,6613,6614,6615,6616,6617,6618,6619,6620,6621" />
+		<restriction type="skill" ids="1374,1375,1376,395,396" />
+		<attakdoor type="Door" ids="" />
+	</event>
+	<!-- DeathMatch -->
+	<event id="1">
+		<property name="minLvl" value="76" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Deathmatch" />
+		<property name="ids" value="1" />
+		<property name="matchTime" value="240" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="false" />
+		<property name="allowUseMagic" value="true" />
+		<property name="removeBuffs" value="false" />
+		<property name="minPlayers" value="2" />
+		<color owner="All" r="255" g="255" b="255"/>
+		<position owner="All" x="106037" y="114816" z="-1560" radius="700" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="" />
+	</event>
+	<!-- Team vs Team -->
+	<event id="2">
+		<property name="minLvl" value="76" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Team vs Team" />
+		<property name="ids" value="2" />
+		<property name="matchTime" value="240" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="false" />
+		<property name="allowUseMagic" value="true" />
+		<property name="removeBuffs" value="false" />
+		<property name="minPlayers" value="2" />
+		<color owner="Blue" r="0" g="0" b="255"/>
+		<color owner="Red" r="255" g="0" b="0"/>
+    	<position owner="Blue" x="106679" y="116319" z="-1587" radius="50" />
+    	<position owner="Red" x="105914" y="113368" z="-1587" radius="50" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="" />
+	</event>
+	<!-- Capture the Flag -->
+	<event id="3">
+		<property name="minLvl" value="76" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Capture the Flag" />
+		<property name="ids" value="3" />
+		<property name="matchTime" value="240" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="false" />
+		<property name="allowUseMagic" value="true" />
+		<property name="removeBuffs" value="false" />
+		<property name="minPlayers" value="2" />
+		<property name="blueFlagId" value="9104" />
+		<property name="redFlagId" value="9105" />
+		<property name="blueFlagHolderId" value="9106" />
+		<property name="redFlagHolderId" value="9107" />
+		<color owner="Blue" r="0" g="0" b="255"/>
+		<color owner="Red" r="255" g="0" b="0"/>
+    	<position owner="Blue" x="106679" y="116319" z="-1587" radius="50" />
+		<position owner="BlueFlag" x="106391" y="116331" z="-1587" radius="0" />
+    	<position owner="Red" x="105914" y="113368" z="-1587" radius="50" />
+		<position owner="RedFlag" x="105696" y="113522" z="-1587" radius="0" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="" />
+	</event>
+	<!-- Last Man Standing -->
+	<event id="4">
+		<property name="minLvl" value="76" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Elimination" />
+		<property name="ids" value="4" />
+		<property name="matchTime" value="240" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="false" />
+		<property name="allowUseMagic" value="true" />
+		<property name="removeBuffs" value="false" />
+		<property name="minPlayers" value="2" />
+		<color owner="All" r="255" g="255" b="255"/>
+    	<position owner="All" x="106037" y="114816" z="-1560" radius="700" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="" />
+	</event>
+	<!-- Lucky Chests -->
+	<event id="5">
+		<property name="minLvl" value="40" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Lucky Chests" />
+		<property name="ids" value="5" />
+		<property name="matchTime" value="240" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="false" />
+		<property name="allowUseMagic" value="false" />
+		<property name="removeBuffs" value="true" />
+		<property name="minPlayers" value="2" />
+		<property name="chestNpcId" value="9103" />
+		<property name="numberOfChests" value="300" />
+		<property name="rewardOnOpen" value="true" />
+		<color owner="All" r="255" g="255" b="255"/>
+    	<position owner="All" x="106037" y="114816" z="-1560" radius="100" />
+		<position owner="Chests" x="106037" y="114816" z="-1560" radius="700" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="" />
+	</event>
+	
+	<!-- Zombie -->
+	<event id="6">
+		<property name="minLvl" value="40" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Zombies vs Humans" />
+		<property name="ids" value="6" />
+		<property name="matchTime" value="300" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="false" />
+		<property name="allowUseMagic" value="false" />
+		<property name="removeBuffs" value="false" />
+		<property name="minPlayers" value="10" />
+		<color owner="All" r="255" g="255" b="255"/>
+		<color owner="Zombie" r="255" g="0" b="0"/>
+    	<position owner="All" x="58710" y="-27875" z="576" radius="50" />
+    	<position owner="All" x="57583" y="-27190" z="576" radius="50" />
+    	<position owner="All" x="57185" y="-27727" z="576" radius="50" />
+    	<position owner="All" x="57192" y="-27172" z="586" radius="50" />
+    	<position owner="All" x="56573" y="-27372" z="574" radius="50" />
+    	<position owner="All" x="56881" y="-26711" z="574" radius="50" />
+    	<position owner="All" x="56948" y="-25858" z="603" radius="50" />
+    	<position owner="All" x="57958" y="-26796" z="600" radius="50" />
+    	<position owner="All" x="57957" y="-26036" z="592" radius="50" />
+    	<position owner="All" x="58944" y="-25914" z="592" radius="50" />
+    	<position owner="All" x="58954" y="-26515" z="574" radius="50" />
+    	<position owner="All" x="59152" y="-27676" z="560" radius="50" />
+    	<position owner="All" x="58960" y="-28659" z="574" radius="50" />
+    	<position owner="All" x="57958" y="-28243" z="602" radius="50" />
+    	<position owner="All" x="56700" y="-27984" z="574" radius="50" />
+    	<position owner="All" x="57038" y="-29078" z="568" radius="50" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="" />
+	</event>
+	<!-- Part Farm -->
+	<event id="7">
+		<property name="minLvl" value="77" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Party Farm" />
+		<property name="ids" value="7" />
+		<property name="matchTime" value="2700" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="true" />
+		<property name="allowUseMagic" value="true" />
+		<property name="removeBuffs" value="false" />
+		<property name="minPlayers" value="1" />
+		<color owner="All" r="255" g="255" b="255"/>
+		<position owner="All" x="-17519" y="211921" z="-3536" radius="50" />
+		<position owner="All" x="-13263" y="209214" z="-3560" radius="50" />
+		<position owner="All" x="-10343" y="208995" z="-3704" radius="50" />
+		<position owner="All" x="-14906" y="204564" z="-2336" radius="50" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="" />
+	</event>
+	<!-- Tournament Battler -->
+		<event id="8">
+		<property name="minLvl" value="76" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Tournament" />
+		<property name="ids" value="8" />
+		<property name="matchTime" value="2700" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="true" />
+		<property name="allowUseMagic" value="true" />
+		<property name="removeBuffs" value="false" />
+		<property name="minPlayers" value="2" />
+		<property name="registerNpcId" value="50003" />
+		<property name="registerTowNpcId" value="50003" />
+		<position owner="OneLocation" x="-88483" y="-257804" z="-3328" radius="0" />
+		<position owner="TowLocation" x="-86512" y="-257780" z="-3328" radius="0" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="" />
+	</event>
+<!-- Fortress Manager -->
+	<event id="9">
+		<property name="minLvl" value="76" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Fortress Siege" />
+		<property name="ids" value="9" />
+		<property name="matchTime" value="300" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="true" />
+		<property name="allowUseMagic" value="true" />
+		<property name="removeBuffs" value="false" />
+		<property name="minPlayers" value="2" />
+		<property name="ArtifactNpcId" value="9110" />
+		<property name="SealFortressSkill" value="8003" />
+		<property name="SealFortressSkillLevel" value="1" />
+		<property name="DoorId_00" value="24190010" />
+		<property name="DoorId_01" value="24190008" />
+		<property name="DoorId_02" value="24190009" />
+		<property name="DoorId_03" value="24190006" />
+		<property name="DoorId_04" value="24190007" />
+		<property name="DoorId_05" value="24190005" />
+		
+		<color owner="Blue" r="0" g="0" b="255"/>
+		<color owner="Red" r="255" g="0" b="0"/>
+	
+    	<position owner="Blue" x="152168" y="57672" z="-3280" radius="50" />
+    	<position owner="Red" x="157544" y="53240" z="-3272" radius="50" />
+		<position owner="ArtifactLocation" x="155039" y="55205" z="-3248" radius="0" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="24190010;24190008;24190009;24190006;24190007;24190005" />
+	</event>
+<!-- Chaotic PvP Zone Reward Donate Coin -->	
+		<event id="10">
+		<property name="minLvl" value="76" />
+		<property name="maxLvl" value="80" />
+		<property name="eventName" value="Chaotic PvP Zone" />
+		<property name="ids" value="10" />
+		<property name="matchTime" value="240" />
+		<property name="rewardId" value="9308" />
+		<property name="rewardAmmount" value="20" />
+		<property name="allowPotions" value="true" />
+		<property name="allowUseMagic" value="true" />
+		<property name="removeBuffs" value="false" />
+		<property name="minPlayers" value="2" />
+		
+		<color owner="All" r="198" g="0" b="255"/>
+    	<position owner="All" x="17776" y="91296" z="-3664" radius="50" />
+		<position owner="All" x="15354" y="91908" z="-3664" radius="50" />
+		<position owner="All" x="16057" y="90664" z="-3672" radius="50" />
+		<position owner="All" x="16791" y="92622" z="-3664" radius="50" />
+		<restriction type="item" ids="" />
+		<restriction type="skill" ids="" />
+		<attakdoor type="Door" ids="" />
+	</event>
+</events>

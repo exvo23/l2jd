@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- L2JDEV {@Link BAN DISCORD BAN_L2JDEV:5612} -->
+
+<list>
+<item id="1">
+<ingredient id="9309" count="1000"/>
+<production id="9315" count="1"/>
+</item>
+
+<item id="2">
+<ingredient id="9308" count="1000"/>
+<production id="9309" count="1"/>
+</item>
+
+
+</list>

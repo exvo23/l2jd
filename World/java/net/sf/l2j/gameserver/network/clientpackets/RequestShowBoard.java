@@ -1,0 +1,22 @@
+package net.sf.l2j.gameserver.network.clientpackets;
+
+import net.sf.l2j.Config;
+import net.sf.l2j.gameserver.communitybbs.CommunityBoard;
+
+public final class RequestShowBoard extends L2GameClientPacket
+{
+	@Override
+	protected void readImpl()
+	{
+		readD(); // Not used for security reason.
+	}
+	
+	@Override
+	protected void runImpl()
+	{
+		if (Config.ENABLE_CB_CUSTOM)
+			CommunityBoard.getInstance().handleCommands(getClient(), Config.CB_DEFAULT);
+		else
+			CommunityBoard.getInstance().handleCommands(getClient(), Config.CB_DEFAULT);
+	}
+}

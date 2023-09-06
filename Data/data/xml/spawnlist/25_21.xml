@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Giran Area
+ * Antharas' Nest
+-->
+<list>
+	<!--  -->
+	<territory name="boss_25_21" minZ="-7712" maxZ="-6212">
+		<node x="175201" y="110789" />
+		<node x="179519" y="110645" />
+		<node x="187612" y="113814" />
+		<node x="187652" y="115788" />
+		<node x="179659" y="118982" />
+		<node x="175206" y="118934" />
+		<node x="173003" y="114720" />
+	</territory>
+</list>

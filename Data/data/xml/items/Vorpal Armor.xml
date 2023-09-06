@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+<!-- HEAVY Set Link@ BAN - L2JDEV #Discord BAN_L2JDEV#5612 Vip Extrem -->
+ <item id="9745" type="Armor" name="Vorpal Heavy Helmet">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="268" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="550" />
+	<set name="price" val="5370000" />
+	<for>
+		<baseadd stat="pDef" val="83" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+ <item id="9746" type="Armor" name="Vorpal Heavy Breastplate">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<for>
+		<baseadd stat="pDef" val="205" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9747" type="Armor" name="Vorpal Heavy Gaiters">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="448" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="3260" />
+	<set name="price" val="8960000" />
+	<for>
+		<baseadd stat="pDef" val="128" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+ <item id="9748" type="Armor" name="Vorpal Heavy Gloves">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="179" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="540" />
+	<set name="price" val="3580000" />
+	<for>
+		<baseadd stat="pDef" val="55" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+ <item id="9749" type="Armor" name="Vorpal Heavy Boots">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="179" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="1110" />
+	<set name="price" val="3580000" />
+	<for>
+		<baseadd stat="pDef" val="55" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+<!-- LIGHT Set Link@ BAN - L2JDEV #Discord BAN_L2JDEV#5612 Vip Extrem -->
+ <item id="9750" type="Armor" name="Vorpal Leather Helmet">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="268" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="550" />
+	<set name="price" val="5370000" />
+	<for>
+		<baseadd stat="pDef" val="83" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+ <item id="9751" type="Armor" name="Vorpal Leather Breastplate">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<for>
+		<baseadd stat="pDef" val="205" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9752" type="Armor" name="Vorpal Leather Gaiters">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="448" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="3260" />
+	<set name="price" val="8960000" />
+	<for>
+		<baseadd stat="pDef" val="128" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+ <item id="9753" type="Armor" name="Vorpal Leather Gloves">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="179" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="540" />
+	<set name="price" val="3580000" />
+	<for>
+		<baseadd stat="pDef" val="55" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+ <item id="9754" type="Armor" name="Vorpal Leather Boots">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="179" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="1110" />
+	<set name="price" val="3580000" />
+	<for>
+		<baseadd stat="pDef" val="55" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+<!-- Robe Set Link@ BAN - L2JDEV #Discord BAN_L2JDEV#5612 Vip Extrem -->
+ <item id="9755" type="Armor" name="Vorpal Robe Helmet">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="268" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="550" />
+	<set name="price" val="5370000" />
+	<for>
+		<baseadd stat="pDef" val="83" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9756" type="Armor" name="Vorpal Robe Breastplate">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<for>
+		<baseadd stat="pDef" val="205" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+ <item id="9757" type="Armor" name="Vorpal Robe Gaiters">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="448" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="3260" />
+	<set name="price" val="8960000" />
+	<for>
+		<baseadd stat="pDef" val="128" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9758" type="Armor" name="Vorpal Robe Gloves">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="179" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="540" />
+	<set name="price" val="3580000" />
+	<for>
+		<baseadd stat="pDef" val="55" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9759" type="Armor" name="Vorpal Robe Boots">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="179" />
+	<set name="material" val="ADAMANTAITE" />
+	<set name="weight" val="1110" />
+	<set name="price" val="3580000" />
+	<for>
+		<baseadd stat="pDef" val="55" />
+		<enchant stat="pDef" val="0" />
+	</for>
+</item>
+</list>

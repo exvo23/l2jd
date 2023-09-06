@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<item id="9300" type="EtcItem" name="Clan Full">
+	<set name="material" val="STEEL" />
+	<set name="is_stackable" val="false" />
+	<set name="handler" val="ClanItem" />
+</item>
+<item id="9301" type="EtcItem" name="Noblesses">
+	<set name="material" val="STEEL" />
+	<set name="is_stackable" val="false" />
+	<set name="handler" val="NobleItem" />
+</item>
+<item id="9302" type="EtcItem" name="Start Hero">
+	<set name="material" val="STEEL" />
+	<set name="is_stackable" val="true" />
+	<set name="is_oly_restricted" val="true" />
+	<set name="handler" val="HeroHandler" />
+</item>
+<item id="9303" type="EtcItem" name="Medium Hero Item">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="true" />
+	<set name="is_oly_restricted" val="true" />
+	<set name="handler" val="HeroHandler" />
+</item>
+<item id="9304" type="EtcItem" name="Golden Hero Item">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="true" />
+	<set name="is_oly_restricted" val="true" />
+	<set name="handler" val="HeroHandler" />
+</item>
+<item id="9305" type="EtcItem" name="Start Premium Item">
+	<set name="material" val="PAPER" />
+	<set name="is_stackable" val="false" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="PremiumHandler" />
+</item>	
+<item id="9306" type="EtcItem" name="Medium Premium Item">
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="material" val="PAPER" />
+	<set name="weight" val="120" />
+	<set name="price" val="500000" />
+	<set name="is_stackable" val="true" />
+	<set name="is_oly_restricted" val="true" />
+	<set name="handler" val="PremiumHandler" />
+</item>
+<item id="9307" type="EtcItem" name="Golden Premium Item">
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="material" val="PAPER" />
+	<set name="weight" val="120" />
+	<set name="price" val="500000" />
+	<set name="is_oly_restricted" val="true" />
+	<set name="is_stackable" val="true" />
+	<set name="handler" val="PremiumHandler" />
+</item>
+<item id="9308" type="EtcItem" name="Medal Of Honor">
+	<set name="material" val="STEEL" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+</item>
+<item id="9309" type="EtcItem" name="Golden Of Infinity">
+	<set name="material" val="STEEL" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+</item>
+<item id="9310" type="EtcItem" name="Class Change">
+	<set name="material" val="STEEL" />
+	<set name="is_destroyable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="false" />
+	<set name="handler" val="ClassItem" />
+</item>
+<item id="9311" type="EtcItem" name="Genero Change">
+	<set name="material" val="STEEL" />
+	<set name="is_destroyable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="false" />
+	<set name="handler" val="SexCoin" />
+</item>
+<item id="9312" type="EtcItem" name="Blood coin">
+	<set name="material" val="STEEL" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+</item>
+<item id="9313" type="EtcItem" name="Reset Pk Point">
+	<set name="material" val="STEEL" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="false" />
+	<set name="handler" val="DeletePk" />
+</item>
+<item id="9314" type="EtcItem" name="Tournament">
+	<set name="is_tradable" val="true" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="true" />
+	<set name="material" val="PAPER" />
+	<set name="weight" val="0" />
+	<set name="price" val="500000" />
+	<set name="is_oly_restricted" val="false" />
+	<set name="is_stackable" val="true" />
+</item>
+<item id="9315" type="EtcItem" name="L2 Donate Coin">
+	<set name="material" val="STEEL" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+</item>
+<item id="9316" type="EtcItem" name="Bronze of Coin">
+	<set name="material" val="STEEL" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+</item>
+<item id="9317" type="EtcItem" name="Silver of Coin">
+	<set name="material" val="STEEL" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+</item>
+<item id="9318" type="EtcItem" name="Gold of Coin">
+	<set name="material" val="STEEL" />
+	<set name="is_tradable" val="false" />
+	<set name="is_dropable" val="false" />
+	<set name="is_sellable" val="false" />
+	<set name="is_depositable" val="false" />
+	<set name="is_stackable" val="true" />
+</item>
+
+<!-- Icon PNG Shop Style -->
+<item id="22001" type="EtcItem" name="Organizer">
+	<set name="material" val="GOLD" />
+	<set name="price" val="1" />
+	<set name="is_stackable" val="false" />
+</item>
+</list>
